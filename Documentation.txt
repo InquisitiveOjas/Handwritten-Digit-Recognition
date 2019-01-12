@@ -1,0 +1,24 @@
+Aim:-
+This project aims to successfully recognise handwritten digits using a deep Neural Network.
+Approach:-
+A sequential approach is followed. The steps followed are:-
+	(1) Importing the keras-libraries
+	(2) Importing the data
+	(3) Visualising the data
+	(4) Designing the model
+	(5) Visualising the first layer and observing the weights before training
+	(6) Compiling the model
+	(7) Training the model
+	(8) Testing the model
+	(9) Visualising the first layer and observing the weights after training
+			 This step helps us to visualise that:-
+						(1)This internal representation reflects Latent Variables
+						(2)Each of the nodes will look for a specific pattern in the input
+						(3)A node will get activated if input is similar to the feature it looks for
+						(4)Each node is unique and often orthogonal to each other
+	(10) Predicting the digit at the index of the test set and visualising the final prediction with the help of a thresholded output
+Conclusion :-
+	Training and Testing accuracy are noted.
+	(1) Training Accuracy :- 94.05%
+	(2) Testing Accuracy :- 94.11%
+	Thus the model is a "Good Fit"!
