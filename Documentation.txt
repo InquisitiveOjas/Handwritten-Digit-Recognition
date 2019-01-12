@@ -17,8 +17,9 @@ A sequential approach is followed. The steps followed are:-
 						(3)A node will get activated if input is similar to the feature it looks for
 						(4)Each node is unique and often orthogonal to each other
 	(10) Predicting the digit at the index of the test set and visualising the final prediction with the help of a thresholded output
-Conclusion :-
+Observation:-
 	Training and Testing accuracy are noted.
-	(1) Training Accuracy :- 96.17%
-	(2) Testing Accuracy :- 95.63%
+	(1) Training Accuracy :- 96.32%
+	(2) Testing Accuracy :- 95.6%
+Conclusion :-
 	Thus the model is a "Good Fit"!
